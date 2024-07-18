@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellloFrom Csharp", "HellloFrom Csharp\HellloFrom Csharp.csproj", "{72FD0D95-3574-47C2-B44F-05716B002BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HellloFrom Csharp", "HellloFrom Csharp\HellloFrom Csharp.csproj", "{72FD0D95-3574-47C2-B44F-05716B002BD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadTheData", "ReadTheData\ReadTheData.csproj", "{44CAF65E-373C-4F98-8692-D366C0FAE67A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MortgageCalculator", "MortgageCalculator\MortgageCalculator.csproj", "{C207471A-90B0-4636-8A82-A56B2EC76CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceQuoter", "PriceQuoter\PriceQuoter.csproj", "{48253B4D-32B4-48E1-8B18-1E1744AFDDC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressDecypher", "AddressDecypher\AddressDecypher.csproj", "{A829859A-84D9-4B9B-BE0E-836400EA3016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{72FD0D95-3574-47C2-B44F-05716B002BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72FD0D95-3574-47C2-B44F-05716B002BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72FD0D95-3574-47C2-B44F-05716B002BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CAF65E-373C-4F98-8692-D366C0FAE67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CAF65E-373C-4F98-8692-D366C0FAE67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CAF65E-373C-4F98-8692-D366C0FAE67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CAF65E-373C-4F98-8692-D366C0FAE67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C207471A-90B0-4636-8A82-A56B2EC76CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C207471A-90B0-4636-8A82-A56B2EC76CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C207471A-90B0-4636-8A82-A56B2EC76CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C207471A-90B0-4636-8A82-A56B2EC76CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48253B4D-32B4-48E1-8B18-1E1744AFDDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48253B4D-32B4-48E1-8B18-1E1744AFDDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48253B4D-32B4-48E1-8B18-1E1744AFDDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48253B4D-32B4-48E1-8B18-1E1744AFDDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A829859A-84D9-4B9B-BE0E-836400EA3016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A829859A-84D9-4B9B-BE0E-836400EA3016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A829859A-84D9-4B9B-BE0E-836400EA3016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A829859A-84D9-4B9B-BE0E-836400EA3016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
