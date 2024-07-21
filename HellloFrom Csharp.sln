@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagingFamily", "ManagingF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeMath", "TimeMath\TimeMath.csproj", "{67E90E0F-CBD6-4676-BE1D-6D3B254B8C36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore", "PetStore\PetStore.csproj", "{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{67E90E0F-CBD6-4676-BE1D-6D3B254B8C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67E90E0F-CBD6-4676-BE1D-6D3B254B8C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67E90E0F-CBD6-4676-BE1D-6D3B254B8C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
