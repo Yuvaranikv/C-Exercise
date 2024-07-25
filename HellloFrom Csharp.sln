@@ -13,19 +13,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriceQuoter", "PriceQuoter\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressDecypher", "AddressDecypher\AddressDecypher.csproj", "{A829859A-84D9-4B9B-BE0E-836400EA3016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameAndAge", "NameAndAge\NameAndAge.csproj", "{444EDDE0-8BAB-4F66-BBCD-5CA412038961}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameAndAge", "NameAndAge\NameAndAge.csproj", "{444EDDE0-8BAB-4F66-BBCD-5CA412038961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassPlay", "ClassPlay\ClassPlay.csproj", "{2E85F94E-4AD6-41DF-821A-6D88AC208737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassPlay", "ClassPlay\ClassPlay.csproj", "{2E85F94E-4AD6-41DF-821A-6D88AC208737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessTestScores", "ProcessTestScores\ProcessTestScores.csproj", "{0316B2F3-161E-4982-BE60-55BF1CF943FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessTestScores", "ProcessTestScores\ProcessTestScores.csproj", "{0316B2F3-161E-4982-BE60-55BF1CF943FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteMovies", "FavoriteMovies\FavoriteMovies.csproj", "{48416974-168A-4FE2-9ABA-A0C19E69A1F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FavoriteMovies", "FavoriteMovies\FavoriteMovies.csproj", "{48416974-168A-4FE2-9ABA-A0C19E69A1F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagingFamily", "ManagingFamily\ManagingFamily.csproj", "{0B186293-0A8D-4F87-ACDD-3BEF2227FB54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagingFamily", "ManagingFamily\ManagingFamily.csproj", "{0B186293-0A8D-4F87-ACDD-3BEF2227FB54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeMath", "TimeMath\TimeMath.csproj", "{67E90E0F-CBD6-4676-BE1D-6D3B254B8C36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeMath", "TimeMath\TimeMath.csproj", "{67E90E0F-CBD6-4676-BE1D-6D3B254B8C36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetStore", "PetStore\PetStore.csproj", "{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStore", "PetStore\PetStore.csproj", "{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQAndNumbers", "LINQAndNumbers\LINQAndNumbers.csproj", "{BA6A51EA-F488-4698-8499-12D61F308264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQandStrings", "LINQandStrings\LINQandStrings.csproj", "{701C7E94-AC43-473A-9AFA-07E6D276BD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQandObjects", "LINQandObjects\LINQandObjects.csproj", "{B974A085-1F96-454A-860A-A78DED74931F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E373BA77-18FC-48BA-9D4F-E1C48F9EEE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6A51EA-F488-4698-8499-12D61F308264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6A51EA-F488-4698-8499-12D61F308264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6A51EA-F488-4698-8499-12D61F308264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6A51EA-F488-4698-8499-12D61F308264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701C7E94-AC43-473A-9AFA-07E6D276BD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701C7E94-AC43-473A-9AFA-07E6D276BD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701C7E94-AC43-473A-9AFA-07E6D276BD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701C7E94-AC43-473A-9AFA-07E6D276BD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B974A085-1F96-454A-860A-A78DED74931F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B974A085-1F96-454A-860A-A78DED74931F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B974A085-1F96-454A-860A-A78DED74931F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B974A085-1F96-454A-860A-A78DED74931F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
