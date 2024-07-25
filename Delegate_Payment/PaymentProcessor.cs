@@ -38,5 +38,12 @@ namespace Delegate_Payment
             // Simulate processing logic
             return true; // Assume payment is successful
         }
+
+        public bool ProcessMastercardPayment(double amount)
+        {
+            Console.WriteLine($"Processing Mastercard payment of {amount:C}.");
+            // Simulate processing logic
+            return false; // Simulate a failed payment
+        }
     }
 }
