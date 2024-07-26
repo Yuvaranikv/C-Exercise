@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate_Payment", "Delegat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindGrocery_ConsoleApp", "NorthwindGrocery_ConsoleApp\NorthwindGrocery_ConsoleApp.csproj", "{B3477297-0EE0-48C7-91E4-CC9BD276B99D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dealership", "Dealership\Dealership.csproj", "{0B8B2CF7-581B-4850-926B-3F56EE490675}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{B3477297-0EE0-48C7-91E4-CC9BD276B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3477297-0EE0-48C7-91E4-CC9BD276B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3477297-0EE0-48C7-91E4-CC9BD276B99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8B2CF7-581B-4850-926B-3F56EE490675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8B2CF7-581B-4850-926B-3F56EE490675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8B2CF7-581B-4850-926B-3F56EE490675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8B2CF7-581B-4850-926B-3F56EE490675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
